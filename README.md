@@ -1,1 +1,1 @@
-# ExpData
+It contains the raw data for the experiment as well as the script to draw the figure.
